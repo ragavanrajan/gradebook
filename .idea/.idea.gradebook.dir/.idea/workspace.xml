@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c166beb-6131-4ddf-93a4-f4936f4a4c6b" name="Default Changelist" comment="" />
+    <list default="true" id="6c166beb-6131-4ddf-93a4-f4936f4a4c6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.gradebook.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gradebook.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GradeBook/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/GradeBook/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -18,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aJpdI5m1cpvW441IjV9ddfohwM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
@@ -61,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586463638511</updated>
       <workItem from="1586463645850" duration="34000" />
-      <workItem from="1586463738273" duration="130000" />
+      <workItem from="1586463738273" duration="3424000" />
     </task>
     <servers />
   </component>
@@ -70,10 +83,33 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="637" y="180" key="#GradeBook" timestamp="1586494966826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="180" key="#GradeBook/0.0.1920.1040@0.0.1920.1040" timestamp="1586494966826" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586494958434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586494958434" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1586463837466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586463837466" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1586495021095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495021095" />
   </component>
 </project>
