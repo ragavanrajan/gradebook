@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c166beb-6131-4ddf-93a4-f4936f4a4c6b" name="Default Changelist" comment="">
+    <list default="true" id="6c166beb-6131-4ddf-93a4-f4936f4a4c6b" name="Default Changelist" comment="added : args.Length method to check error">
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.gradebook.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gradebook.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GradeBook/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb" afterDir="false" />
     </list>
@@ -15,10 +16,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/GradeBook/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -29,7 +46,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1aJpdI5m1cpvW441IjV9ddfohwM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,11 +56,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="GradeBook" type="DotNetProject" factoryName=".NET Project">
@@ -74,8 +94,16 @@
       <option name="presentableId" value="Default" />
       <updated>1586463638511</updated>
       <workItem from="1586463645850" duration="34000" />
-      <workItem from="1586463738273" duration="3424000" />
+      <workItem from="1586463738273" duration="12623000" />
     </task>
+    <task id="LOCAL-00001" summary="added : args.Length method to check error">
+      <created>1586495091483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586495091483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,22 +122,39 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added : args.Length method to check error" />
+    <option name="LAST_COMMIT_MESSAGE" value="added : args.Length method to check error" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="637" y="180" key="#GradeBook" timestamp="1586494966826">
+    <state x="637" y="180" key="#GradeBook" timestamp="1586545111894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="637" y="180" key="#GradeBook/0.0.1920.1040@0.0.1920.1040" timestamp="1586494966826" />
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586494958434">
+    <state x="637" y="180" key="#GradeBook/0.0.1920.1040@0.0.1920.1040" timestamp="1586545111894" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586549950333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586494958434" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1586463837466">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586549950333" />
+    <state x="160" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586551066431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586463837466" />
+    <state x="160" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586551066431" />
+    <state x="72" y="255" key="Rider.ProjectTemplateDialog.Size" timestamp="1586546944780">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="255" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1586546944780" />
+    <state x="461" y="157" key="SettingsEditor" timestamp="1586547750795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586547750795" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1586495021095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495021095" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586503807771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586503807771" />
   </component>
 </project>
